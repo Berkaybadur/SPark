@@ -1,0 +1,6 @@
+@SParkApi_HostAddress = http://localhost:5224
+
+GET {{SParkApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
